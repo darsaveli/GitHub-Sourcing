@@ -1,0 +1,277 @@
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>GitHub IT Sourcing Course</title>
+      
+      <style>
+
+        /* Modify the background color */
+          .navbar-custom {
+              background-color: #2D333B;
+          }
+
+          .p-5 {
+              
+              text-align: center;
+              color: #F8F9FA;
+              
+            }
+          h1 {
+            position: relative;
+            margin-top: 40px;
+          }
+
+          .col-md-8 {
+            text-align: center;
+
+          }
+          
+          .input-group {
+            width: 300px;
+          }
+          
+          .col-12 {
+            display:flex;
+            justify-content:center;
+          }
+          
+          #appSummary {
+              
+              text-align: center;
+              margin-top:50px;
+              margin-bottom: 50px;
+              
+          }
+          
+          #appStoreIcon {
+              
+              width: 200px;
+              
+          }
+          
+          #footer {
+              
+              background-color: #212529;
+              color: #F8F9FA;
+              padding-top: 150px;
+              margin-top: 50px;
+              padding-bottom: 150px;
+              text-align: center;
+
+          }
+
+          .card-footer {
+            background-color: #2D333B;
+          }
+          
+          body {
+              
+              position: relative;
+              background-color: #768688;
+          }
+      .btn {
+        background-color: #46954A;
+        color: #F8F9FA;
+        border-radius: 8px;
+      }
+      .card-custom {
+              background-color: #E6E6E6;
+      }
+      
+      </style>
+      
+  </head>
+  <!-- scrollspy (position relative in body was needed + fixed-top + giving id of navbar to the nav with navbar to spy on it + putting id names to what we spy in href="#")-->
+  <body data-spy="scroll" data-target="#navbar">
+      
+    <!-- navbar with buttons-->
+    <nav class="navbar navbar-custom navbar-expand-lg navbar-light fixed-top" id="navbar">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <img src="original.png" width="50" height="50" class="d-inline-block align-top" alt="">
+        </a>
+        <a class="navbar-brand" href="#">GitHub Sourcing</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#jumbotron">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="#about">Importance</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#footer" tabindex="-1" aria-disabled="true">Feedback</a>
+            </li>
+          </ul>
+          <form class="d-flex">
+            <button class="btn btn-outline-success" type="submit">Sign Up</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+      <!-- jumbotrone for B5-->
+      <div class="p-5 mb-4 bg-dark rounded-3" id="jumbotron">
+
+            <div class="container-fluid py-5">
+
+              <h1 class="display-5 fw-bold">GitHub Sourcing Course <br> for Sourcers and IT Recruiters</h1>
+              <p class="fs-4">From begginer to Advanced!</p>
+              <p>Want to master your candidate searching skills? </p>
+
+              <form>
+                <button class="btn btn-outline-success" type="submit">Get to know more</button>
+              </form>
+
+            </div>
+
+        </div> 
+
+      <!-- adding simple content -->
+      <div class="container" id="about">
+      
+        <div class="row" id="appSummary">
+  
+            <h1>What you will learn?</h1>
+            <p class="fs-4">GitHub Sourcing Strategies</p>
+
+                
+
+        </div>
+
+      </div>
+      
+    <!-- adding cards
+    <div class="container">
+      <div class="card-group">
+
+        <div class="card">
+          <img src="1.jpeg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">CTA</small>
+          </div>
+        </div>
+
+        <div class="card">
+          <img src="2.jpeg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">CTA</small>
+          </div>
+        </div>
+
+        <div class="card card-custom">
+          <img src="3.jpeg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">CTA</small>
+          </div>
+        </div>
+
+        <div class="card">
+          <img src="4.jpeg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">CTA</small>
+          </div>
+        </div>
+      </div>
+    </div>-->
+
+    <div class="container">
+      <div class="card-group">
+
+        <div class="card card-custom">
+          <img src="tst.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Search Using Visual Interface</h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">CTA</small>
+          </div>
+        </div>
+
+        <div class="card card-custom">
+          <img src="labtocat.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Advanced Search Qualifiers</h5>
+            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">CTA</small>
+          </div>
+        </div>
+
+        <div class="card card-custom">
+          <img src="inspectocat.jpeg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">X-Ray Search</h5>
+            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">CTA</small>
+          </div>
+        </div>
+
+        <div class="card card-custom">
+          <img src="Professortocat.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">CSE (Programmable search)</h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">CTA</small>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+      <!-- footer -->
+      <div id="footer">
+      
+        <div class="row">
+          
+          <h2>Sign Up</h2>
+            
+            <p class="fs-4">Become a Professional Sourcer!</p>
+              <div class="footerbtn">
+              <form class="footerbtn" action="https://github.com/">
+              <button class="btn btn-outline-success" type="get">Contact us</button>
+              </form>
+              </div>
+            
+        </div>
+      
+      </div>
+          
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+  </body>
+
+</html>
+
+<!-- Darsaveli -->
