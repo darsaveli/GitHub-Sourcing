@@ -5,7 +5,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+    
 
     <title>GitHub IT Sourcing Course</title>
       
@@ -13,7 +18,8 @@
 
         /* Modify the background color */
           .navbar-custom {
-              background-color: #2D333B;
+              background-color: #E6E6E6;
+              color: ;
           }
 
           .p-5 {
@@ -26,6 +32,7 @@
             position: relative;
             margin-top: 40px;
           }
+          
 
           .col-md-8 {
             text-align: center;
@@ -67,7 +74,7 @@
           }
 
           .card-footer {
-            background-color: #2D333B;
+            background-color: #212529;
           }
           
           body {
@@ -83,7 +90,19 @@
       .card-custom {
               background-color: #E6E6E6;
       }
+
+      .card-group {
+        position: relative;
+        margin-top: 150px;
+      }
       
+      #myCarouseldiv {     
+       width: 768px;
+       height: 415px;
+        }
+    
+
+
       </style>
       
   </head>
@@ -124,9 +143,9 @@
 
             <div class="container-fluid py-5">
 
-              <h1 class="display-5 fw-bold">GitHub Sourcing Course <br> for Sourcers and IT Recruiters</h1>
-              <p class="fs-4">From begginer to Advanced!</p>
-              <p>Want to master your candidate searching skills? </p>
+              <h1 class="display-5 fw-bold">GitHub IT Sourcing Course</h1>
+              <p class="fs-4">From Begginer to Advanced!</p>
+              <p>Want to master candidate searching skills? </p>
 
               <form>
                 <button class="btn btn-outline-success" type="submit">Get to know more</button>
@@ -142,64 +161,75 @@
         <div class="row" id="appSummary">
   
             <h1>What you will learn?</h1>
-            <p class="fs-4">GitHub Sourcing Strategies</p>
-
-                
-
+            <h2></h2>
+            <hr>
+            <p class="fs-4">GitHub Sourcing Course is created for Sourcers and Recruiters</p>
+            <p class="fs-5">For Juniors to explain all the candidate search strategies and for Senior Professionals to advance their skills</p>
+              <p> will get:
+              <li>1:1 Training and Support</li> 
+              <li>Theory and Practice</li>
+              <li>Ready Cheat Sheets</li> 
+              <li>Course Materials</li> 
+          
+              </p>
         </div>
 
       </div>
-      
-    <!-- adding cards
-    <div class="container">
-      <div class="card-group">
 
-        <div class="card">
-          <img src="1.jpeg" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+<!-- slideshow -->
+      <!-- Carousel -->
+<div class="container" id="myCarouseldiv">
+  <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <!-- button slide -->
+        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="3" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="4" aria-label="Slide 3"></button>
+    </div>
+
+      <!-- images -->
+      <div class="carousel-inner">
+          <div class="carousel-item active">
+              <img src="slide1.png" class="d-block w-100" alt="..." height="500px">
+              <div class="carousel-caption d-none d-md-block"></div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">CTA</small>
+
+          <div class="carousel-item">
+            <img src="slide2.png" class="d-block w-100" alt="..." height="500px">
+            <div class="carousel-caption d-none d-md-block"></div>
           </div>
+
+          <div class="carousel-item">
+            <img src="slide3.jpg" class="d-block w-100" alt="..." height="500px">
+            <div class="carousel-caption d-none d-md-block"></div>
+          </div>
+
+          <div class="carousel-item">
+            <img src="slide4.jpg" class="d-block w-100" alt="..." height="500px">
+            <div class="carousel-caption d-none d-md-block"></div>
+          </div>
+
+          <div class="carousel-item">
+            <img src="slide5.jpg" class="d-block w-100" alt="..." height="500px">
+            <div class="carousel-caption d-none d-md-block"></div>
+          </div>
+
         </div>
-
-        <div class="card">
-          <img src="2.jpeg" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-          </div>
-          <div class="card-footer">
-            <small class="text-muted">CTA</small>
-          </div>
-        </div>
-
-        <div class="card card-custom">
-          <img src="3.jpeg" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-          </div>
-          <div class="card-footer">
-            <small class="text-muted">CTA</small>
-          </div>
-        </div>
-
-        <div class="card">
-          <img src="4.jpeg" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-          </div>
-          <div class="card-footer">
-            <small class="text-muted">CTA</small>
-          </div>
-        </div>
-      </div>
-    </div>-->
-
+    <!-- Button du bas -->
+      <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+  
+  </div>
+</div>
+    <!--cards-->
     <div class="container">
       <div class="card-group">
 
@@ -207,7 +237,7 @@
           <img src="tst.png" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Search Using Visual Interface</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text">This guide will walk you through a variety of searching filters by users, repositories, files, issues, etc. </p>
           </div>
           <div class="card-footer">
             <small class="text-muted">CTA</small>
@@ -218,7 +248,7 @@
           <img src="labtocat.png" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Advanced Search Qualifiers</h5>
-            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            <p class="card-text">With the use of 17 search qualifiers you will boost your sourcing and find candidates right from the search bar.</p>
           </div>
           <div class="card-footer">
             <small class="text-muted">CTA</small>
@@ -229,7 +259,7 @@
           <img src="inspectocat.jpeg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">X-Ray Search</h5>
-            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            <p class="card-text">With the use of X-Ray strategy and the collection of my strings you will find any person or CV you will ever want on github.</p>
           </div>
           <div class="card-footer">
             <small class="text-muted">CTA</small>
@@ -240,7 +270,7 @@
           <img src="Professortocat.png" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">CSE (Programmable search)</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+            <p class="card-text">You will master GutHub's structured data search with CSE and be able to find people with the use of metatags.</p>
           </div>
           <div class="card-footer">
             <small class="text-muted">CTA</small>
@@ -268,7 +298,6 @@
       
       </div>
           
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
   </body>
 
