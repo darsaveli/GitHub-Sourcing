@@ -15,6 +15,6 @@ The sourcing guide material is full of ready-to-use strings, search operators, e
 
 You can register your interest by starring this repository and don't hesitate to contact me for 1:1 training and GitHub Sourcing guidebook via SIGN UP button on my website :) 
 
-### Stay tuned!
+### Stay tuned for updates!
 
 MD
