@@ -13,7 +13,7 @@ The course goal is to upskill you into a Professional Sourcer. This material wil
 
 The sourcing guide material is full of ready-to-use strings, search operators, explanations, hacks, and techniques that you will not find online!
 
-If you want to register your interest in 1:1 training and GitHub Sourcing guidebook don't hesitate to reach out via the [SIGN UP button on my website](https://darsaveli.github.io/GitHub-Sourcing/)
+If you want to register your interest in 1:1 training and GitHub Sourcing guidebook don't hesitate to reach out via the [SIGN UP button on my website](https://darsaveli.github.io/GitHub-Sourcing/).
 
 ### Stay tuned for updates! 
 
