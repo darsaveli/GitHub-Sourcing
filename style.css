@@ -1,5 +1,8 @@
 
 /* Modify the background color */
+        body {
+          overflow-x:hidden;
+        }
         .navbar-custom {
           background-color: #E6E6E6;
         }
