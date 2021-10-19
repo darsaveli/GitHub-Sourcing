@@ -57,16 +57,7 @@
           margin-top: 150px;
         }
         #myCarouseldiv {     
-          height:500px;
-          width:900px;
-          margin:0 auto;
-        }
-        .carousel .item {
-          height: 300px;
-        }
-        .item img {
-          position: absolute;
-          top: 0;
-          left: 0;
-          min-height: 300px;
-        }
+            width: 80%;
+            margin:0 auto;
+          }
+          
