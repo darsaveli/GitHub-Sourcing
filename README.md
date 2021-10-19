@@ -9,7 +9,7 @@ This course is focused on 4 search strategies that can be used to source talents
 3. X-Ray
 4. CSE (Programmable search)
 
-The course is focused on upskill you into a Professional Sourcer. this material will be extremely useful for those with no prior experience in Recruitment or Sourcing, as well as for those who want to strengthen their skills, and find the best matching candidates faster than ever!
+The course is focused on upskilling you into a Professional Sourcer. this material will be extremely useful for those with no prior experience in Recruitment or Sourcing, as well as for those who want to strengthen their skills, and find the best matching candidates faster than ever!
 
 The sourcing guide material is full of ready-to-use strings, search operators, explanations, hacks, and techniques that you will not find online!
 
