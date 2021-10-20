@@ -66,5 +66,15 @@
             position: relative;
             margin-top: 45px;
         }
-/* Darsaveli */
+        #disclaimer {
+            position: relative;
+            margin-top: 100px;           
+        }
+        .fs-8{
+            color: #768688;
+        }
+        a {
+            color: #E6E6E6;
+        }
 
+/* Darsaveli */
