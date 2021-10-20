@@ -54,10 +54,17 @@
         }
         .card-group {
           position: relative;
-          margin-top: 150px;
+          margin-top: 30px;
         }
         #myCarouseldiv {     
             width: 80%;
             margin:0 auto;
-          }
-          
+            position: relative;
+            margin-top: -20px;
+        }
+        #indetails {
+            position: relative;
+            margin-top: 45px;
+        }
+/* Darsaveli */
+
