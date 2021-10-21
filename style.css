@@ -1,5 +1,5 @@
 
-/* Modify the background color */
+
         .navbar-custom {
           background-color: #E6E6E6;
         }
@@ -54,7 +54,7 @@
         }
         .card-group {
           position: relative;
-          margin-top: 30px;
+          margin-top: ;
         }
         #myCarouseldiv {     
             width: 80%;
@@ -76,5 +76,11 @@
         a {
             color: #E6E6E6;
         }
+       .card {
+        margin: 0 auto;
+        float: none; 
+        margin-top: 45px;
+        }
+       
 
 /* Darsaveli */
