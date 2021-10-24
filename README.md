@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/81953271/137801814-96165fab-b873-4c14-8f46-d92a86094f81.png)
+![image](https://user-images.githubusercontent.com/81953271/138593645-ac6a8997-7bbe-430b-90d0-3de575661562.png)
 
-GitHub Sourcing Course was created by [Mariam Darsavelidze](https://www.linkedin.com/in/darsaveli/), IT Sourcer from [ManpowerGroup Talent Solutions](https://talentsolutions.manpowergroup.com/) - the world leader in innovative workforce solutions.
+Tech Sourcing on GitHub Course was created by [Mariam Darsavelidze](https://www.linkedin.com/in/darsaveli/), IT Sourcer from [ManpowerGroup Talent Solutions](https://talentsolutions.manpowergroup.com/) - the world leader in innovative workforce solutions.
 
 This course is focused on 4 search strategies that can be used for talent sourcing from GitHub:
 
