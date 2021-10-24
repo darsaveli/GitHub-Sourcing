@@ -1,5 +1,5 @@
 
-
+/* Modify the background color */
         .navbar-custom {
           background-color: #E6E6E6;
         }
@@ -8,8 +8,10 @@
           color: #F8F9FA;
         }
         h1 {
-          position: relative;
-          margin-top: 40px;
+          text-align: center;
+        }
+        h2 {
+          text-align: center;
         }
         .col-md-8 {
           text-align: center;
@@ -23,8 +25,7 @@
         }
         #appSummary {
           text-align: center;
-          margin-top:50px;
-          margin-bottom: 50px; 
+          margin-bottom: 30px; 
         }
         #appStoreIcon {
           width: 200px;
@@ -34,7 +35,6 @@
           color: #F8F9FA;
           padding-top: 150px;
           margin-top: 50px;
-          padding-bottom: 150px;
           text-align: center;
         }
         .card-footer {
@@ -54,7 +54,7 @@
         }
         .card-group {
           position: relative;
-          margin-top: ;
+          margin-top:-40px ;
         }
         #myCarouseldiv {     
             width: 80%;
