@@ -16,8 +16,7 @@ The sourcing guide material is full of ready-to-use strings, search operators, e
 <img src="https://github.com/darsaveli/GitHub-Sourcing/blob/main/supportcat.png" width="130px" align="left">
 
 
-If you want to register your interest in 1:1 training and GitHub Sourcing guidebook don't hesitate to reach out 
-<br> via the [SIGN UP button on my website](https://darsaveli.github.io/GitHub-Sourcing/).
+If you want to register your interest in 1:1 training and GitHub Sourcing guidebook don't hesitate to reach out via the [SIGN UP button on my website](https://darsaveli.github.io/GitHub-Sourcing/).
 
 ### Stay tuned for updates! 
 
