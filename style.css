@@ -6,6 +6,8 @@
         .p-5 {
           text-align: center;
           color: #F8F9FA;
+          position: relative;
+          margin-top: 30px;
         }
         h1 {
           text-align: center;
