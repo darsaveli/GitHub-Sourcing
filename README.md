@@ -4,7 +4,7 @@ Tech Sourcing on GitHub Course was created by [Mariam Darsavelidze](https://www.
 
 <img src="https://github.com/darsaveli/GitHub-Sourcing/blob/main/favicon.png" width="24px" align="left"> This course is focused on 4 search strategies that can be used for talent sourcing from GitHub:
 
-1. Advanced search visual interface
+1. Advanced search (visual interface)
 2. Using GitHub's search qualifiers
 3. X-Ray
 4. CSE (Programmable search)
