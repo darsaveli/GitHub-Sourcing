@@ -1,5 +1,5 @@
 
-/* Modify the background color */
+/* Modified the background color */
 .navbar-custom {
   background-color: #E6E6E6;
 }
@@ -106,6 +106,16 @@ margin-top: 45px;
   margin-top: 18px;
 }
 #feedbackimage2 {
+  position: relative;
+  margin-left: 18px;
+  margin-top: 18px;
+}
+#feedbackimage3 {
+  position: relative;
+  margin-left: 18px;
+  margin-top: 18px;
+}
+#feedbackimage4 {
   position: relative;
   margin-left: 18px;
   margin-top: 18px;
