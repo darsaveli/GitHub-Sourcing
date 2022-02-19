@@ -53,8 +53,14 @@ body {
   color: #F8F9FA;
   border-radius: 8px;
 }
-.card-custom {
-  background-color: #E6E6E6;
+#collapsebtn {
+  background-color: #212529;
+  color: #F8F9FA;
+  border-radius: 25px;
+}
+#collapsebuttonalignment {
+  text-align: center;
+  margin-top: 20px;
 }
 .card-group {
   position: relative;
@@ -120,5 +126,12 @@ margin-top: 45px;
   margin-left: 18px;
   margin-top: 18px;
 }
+#feedbackimage5 {
+  position: relative;
+  margin-left: 18px;
+  margin-top: 18px;
+}
+
+
 
 /* Darsaveli */
