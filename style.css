@@ -1,4 +1,3 @@
-
 /* Modified the background color */
 .navbar-custom {
   background-color: #E6E6E6;
@@ -18,9 +17,9 @@ h2 {
 .col-md-8 {
   text-align: center;
 }
-.input-group {
+ /*.input-group {
   width: 300px;
-}
+}                    tbdeleted */
 .col-12 {
   display:flex;
   justify-content:center;
@@ -29,9 +28,9 @@ h2 {
   text-align: center;
   margin-bottom: 30px; 
 }
-#appStoreIcon {
+/*#appStoreIcon {
   width: 200px;
-}
+}                      tbdeleted */
 #footer {
   background-color: #212529;
   color: #F8F9FA;
@@ -46,7 +45,6 @@ body {
   overflow-x:hidden; /*Unwanted space on right side in mobile view */
   /*background-color: #768688;*/
   background-image: linear-gradient(#768688, #2e4636);
-
 }
 .btn {
   background-color: #46954A;
@@ -67,7 +65,7 @@ body {
   margin-top:-40px;
 }
 #myCarouseldiv {     
-    width: 75%;
+    width: 85%;
     margin:0 auto;
     position: relative;
     margin-top: -20px;
@@ -90,7 +88,6 @@ a {
 margin: 0 auto;
 float: none; 
 margin-top: 45px;
-
 }
 #bookcover {
   padding: 52px 0px 13px 13px;
@@ -148,8 +145,5 @@ margin-top: 45px;
   margin-left: 18px;
   margin-top: 18px;
 }
-
-
-
 
 /* Darsaveli */
