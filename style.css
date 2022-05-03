@@ -92,11 +92,11 @@ float: none;
 margin-top: 45px;
 
 }
-#bookcover{
-  height: 465px;
-  position: relative;
-  padding: 80px 0px 33px 27px;
-  margin-top: 8px;
+#bookcover {
+  padding: 52px 0px 13px 13px;
+  /*position: relative;
+  padding: 30px 0px 13px 13px;
+  margin-top: 8px;*/
 }
 .feedback-fonts {
   font-family: cursive;
