@@ -43,7 +43,7 @@ h2 {
  background-color: #212529;
 }
 body {  
-  overflow-x:hidden;
+  overflow-x:hidden; /*Unwanted space on right side in mobile view */
   /*background-color: #768688;*/
   background-image: linear-gradient(#768688, #2e4636);
 
