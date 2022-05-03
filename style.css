@@ -64,7 +64,7 @@ body {
 }
 .card-group {
   position: relative;
-  margin-top:-40px ;
+  margin-top:-40px;
 }
 #myCarouseldiv {     
     width: 75%;
@@ -90,10 +90,12 @@ a {
 margin: 0 auto;
 float: none; 
 margin-top: 45px;
+
 }
 #bookcover{
+  height: 465px;
   position: relative;
-  padding: 5px 0px 13px 13px;
+  padding: 80px 0px 33px 27px;
   margin-top: 8px;
 }
 .feedback-fonts {
@@ -136,6 +138,17 @@ margin-top: 45px;
   margin-left: 18px;
   margin-top: 18px;
 }
+#feedbackimage7 {
+  position: relative;
+  margin-left: 18px;
+  margin-top: 18px;
+}
+#feedbackimage8 {
+  position: relative;
+  margin-left: 18px;
+  margin-top: 18px;
+}
+
 
 
 
