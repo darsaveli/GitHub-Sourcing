@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/81953271/145576374-aed883fb-3a51-4bbc-a2ad-390d599c4eb4.png)
 
-Tech Sourcing on GitHub Course was created by [Mariam Darsavelidze](https://www.linkedin.com/in/darsaveli/), IT Recruitment Team Lead from [ManpowerGroup Talent Solutions](https://talentsolutions.manpowergroup.com/) - the world leader in innovative workforce solutions.
+Tech Sourcing on GitHub Course was created by [Mariam Darsavelidze](https://www.linkedin.com/in/darsaveli/), Delivery Manager for an IT Recruitment team at [RITS](https://rits.center//) - one of the most dynamically developing Polish companies providing IT staffing.
 
 <img src="https://github.com/darsaveli/GitHub-Sourcing/blob/main/images/favicon.png" width="24px" align="left"> This course is focused on 4 search strategies that can be used for talent sourcing from GitHub:
 
@@ -11,7 +11,7 @@ Tech Sourcing on GitHub Course was created by [Mariam Darsavelidze](https://www.
 
 The course goal is to upskill you into a Professional Sourcer. This material will be extremely useful for those with no prior experience in Recruitment or Sourcing, as well as for those who want to strengthen their skills, and find the best matching candidates faster than ever!
 
-The sourcing guide material is full of ready-to-use strings, search operators, explanations, hacks, and techniques that you will not find online!
+The sourcing guide material is full of ready-to-use strings, search operators, explanations, hacks, and techniques!
 
 <img src="https://github.com/darsaveli/GitHub-Sourcing/blob/main/images/supportcat.png" width="150px" align="left">
 
